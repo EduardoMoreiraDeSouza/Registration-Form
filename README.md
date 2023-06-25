@@ -13,3 +13,5 @@ Há uma opção para a criação e exclusão do banco de dados, para a execuçã
 Mantive o projeto em inglês, pois o original está em inglês.
 
 [Clique Aqui e Veja o Projeto Original](https://github.com/sabinorodrigo/resgistration-form)
+
+### *PHP | HTML | CSS | MYSQL*
